@@ -1,0 +1,91 @@
+{
+  "scriptsCarts": [
+    {
+      "id": 1,
+      "img": "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
+      "title": "C++",
+      "price": "$32.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,exercitationem accusamus accusantium harum!"
+    },
+    {
+      "id": 2,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg",
+      "title": "C#",
+      "price": "$30.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,exercitationem accusamus accusantium harum!"
+    },
+    {
+      "id": 3,
+      "img": "https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg",
+      "title": "sql+",
+      "price": "$20.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,exercitationem accusamus accusantium harum!"
+    },
+    {
+      "id": 4,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg",
+      "title": "JavaScript",
+      "price": "$43.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,exercitationem accusamus accusantium harum!"
+    },
+    {
+      "id": 5,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg",
+      "title": "CSS",
+      "price": "$24.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,      exercitationem accusamus accusantium harum!"
+    },
+    {
+      "id": 6,
+      "img": "https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png",
+      "title": "React JS",
+      "price": "$23.99",
+      "teachName": "Amil Abbasov",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam velit ad porro delectus nihil,      exercitationem accusamus accusantium harum!"
+    }
+  ],
+  "userQuession": [],
+  "logIn": [
+    {
+      "id": 1,
+      "name": "amil",
+      "email": "amil@32",
+      "password": "amil"
+    },
+    {
+      "id": 2,
+      "name": "emil",
+      "email": "emil@32",
+      "password": "amil"
+    },
+    {
+      "id": 3,
+      "name": "dosd",
+      "email": "dosd@gmail.com",
+      "password": "dosd"
+    },
+    {
+      "id": 4,
+      "name": "AAbbasov",
+      "email": "amil@32",
+      "password": "amil"
+    },
+    {
+      "id": 5,
+      "name": "amila",
+      "email": "amil@323",
+      "password": "amil"
+    },
+    {
+      "id": 6,
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "password": "123123"
+    }
+  ]
+}
